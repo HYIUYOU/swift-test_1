@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<playground version='6.0' target-platform='ios' display-mode='rendered'>
+    <pages>
+        <page name='1. 练习 - 结构、实例和默认值'/>
+        <page name='2. App 练习 - 锻炼跟踪'/>
+        <page name='3. 练习 - 成员构造器和自定构造器'/>
+        <page name='4. App 练习 - 用户和距离'/>
+        <page name='5. 练习 - 方法'/>
+        <page name='6. App 练习 - 锻炼函数'/>
+        <page name='7. 练习 - 计算型属性和属性观察器'/>
+        <page name='8. App 练习 - 英里时间和祝贺信息'/>
+        <page name='9. 练习 - 类型属性和方法'/>
+        <page name='10. App 练习 - 类型属性和方法'/>
+    </pages>
+</playground>
